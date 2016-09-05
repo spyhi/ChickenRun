@@ -108,4 +108,4 @@ And while this was our "in the spirit of competition" solution, there is also a 
 
 [See a video of the drone AI in action!](https://youtu.be/bpXoYn5SS7I)
 
-*Note: The graphics were made with EZ, which was developed at the University of Hawaii at Manoa by Dylan Kobayashi to help students get into working with UIs and making "interesting" apps earlier in their college careers. **All rights are reserved for EZ.java**
+*Note: The graphics were made with EZ, which was developed at the University of Hawaii at Manoa by Dylan Kobayashi to help students get into working with UIs and making "interesting" apps earlier in their college careers.* ***All rights are reserved for EZ.java***
